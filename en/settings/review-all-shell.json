@@ -1,0 +1,8 @@
+{
+  "autoMode": {
+    "classifyAllShell": true
+  },
+  "skillOverrides": {
+    "auto-mode-setup": "off"
+  }
+}

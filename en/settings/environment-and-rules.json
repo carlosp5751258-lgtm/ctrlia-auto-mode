@@ -1,0 +1,18 @@
+{
+  "autoMode": {
+    "environment": [
+      "$defaults",
+      "Source control: github.com/my-org and all repos under it",
+      "Trusted internal domains: api.staging.my-company.com",
+      "Key internal services: GitHub Actions for CI"
+    ],
+    "soft_deny": [
+      "$defaults",
+      "Never run database migrations outside the migrations CLI, even against dev databases"
+    ],
+    "hard_deny": [
+      "$defaults",
+      "Never send repository contents to third-party code-review APIs"
+    ]
+  }
+}

@@ -2,6 +2,8 @@
 
 [Read in English](README.en.md)
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 Ajustes listos para copiar para el modo automático (auto mode) de Claude Code: enseñarle tu entorno, endurecer las reglas sin perder las de fábrica, pedir confirmación antes de cada push, empezar en Manual o quitarlo. Más un script que lista las reglas del clasificador y un comprobador que avisa si olvidaste `"$defaults"`.
 
 La referencia completa (cómo decide cada acción, qué bloquea por defecto, `/auto-mode-setup`, límites de 3 y 20 bloqueos, coste) está en:
